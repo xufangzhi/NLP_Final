@@ -2,7 +2,7 @@
 NLP Final Project：SQuAD
 
 ## Model
-RoBERTa-large (Single Model)
+RoBERTa-large + Post-Pretraing(textbook corpus, spanmask)
 
 
 ## Experiment Settings
@@ -13,6 +13,6 @@ learning rate = 1e-6
 ## Result
 SQuAD
 
-Dev:  **80.5/83.6** (EM/F1-score)
+Dev:  **81.07/84.34** (EM/F1-score)
 
 Test: blind
