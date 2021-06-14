@@ -4,7 +4,7 @@ NLP Final Project：SQuAD
 ## Model
 RoBERTa-large
 
-+ Post-Pretraing(textbook corpus, spanmask)
++Post-Pretraing(textbook corpus, spanmask)
 
 
 ## Experiment Settings
