@@ -37,3 +37,14 @@ NewsQA Finetune: max_len=512, lr=1e-6, batch_size=8
 |  | **EM** | **F1-score** |
 | **Dev** | 81.85 | 84.91 |
 | **Test** | - | - |
+
+
+- RoBERTa-large + Post-Pretraing(textbook corpus, spanmask) + NewsQA Finetune (e4)
+
+batchsize=16
+
+|4-stage| epoch=1 | newsqa_e4 |
+|------ | ------- | -------|
+|  | **EM** | **F1-score** |
+| **Dev** | - | - |
+| **Test** | - | - |
