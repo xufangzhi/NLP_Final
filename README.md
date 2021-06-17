@@ -41,6 +41,7 @@ NewsQA Finetune: max_len=512, lr=1e-6, batch_size=8
 
 - RoBERTa-large + Post-Pretraing(textbook corpus, spanmask) + NewsQA Finetune (e4)
 
+batchsize = 16
 
 |4-stage| epoch=1 | newsqa_e4 |
 |------ | ------- | -------|
