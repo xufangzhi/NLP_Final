@@ -43,8 +43,8 @@ NewsQA Finetune: max_len=512, lr=1e-6, batch_size=8
 
 batchsize = 16
 
-|4-stage| epoch=3 | newsqa_e4 |
+|4-stage| epoch=5 | newsqa_e4 |
 |------ | ------- | -------|
 |  | **EM** | **F1-score** |
-| **Dev** | 81.40 | 84.45 |
+| **Dev** | 81.66 | 84.72 |
 | **Test** | - | - |
