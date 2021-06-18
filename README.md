@@ -39,8 +39,6 @@ res_v5
 
 batchsize=16
 
-res_v6
-
 |4-stage| epoch=8 | newsqa_e3 |
 |------ | ------- | -------|
 |  | **EM** | **F1-score** |
