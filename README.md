@@ -28,7 +28,7 @@ batchsize=16 (better than 32)
 |4-stage| epoch=5 | newsqa_e2 |
 |------ | ------- | -------|
 |  | **EM** | **F1-score** |
-| **Dev** | 81.64 | 84.67 |
+| **Dev** | 81.82 | 84.79 |
 | **Test** | - | - |
 
 - RoBERTa-large + Post-Pretraing(textbook corpus, spanmask) + NewsQA Finetune (e3)
