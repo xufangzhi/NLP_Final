@@ -2,6 +2,7 @@
 NLP Final Project：SQuAD
 
 ## Model
+- RoBERTa-large
 - RoBERTa-large + Post-Pretraing(textbook corpus, spanmask)
 - RoBERTa-large + Post-Pretraing(textbook corpus, spanmask) + NewsQA Finetune
 
@@ -12,6 +13,19 @@ SQuAD Finetune: max_len=180, lr=1e-6, batch_size=32
 NewsQA Finetune: max_len=512, lr=1e-6, batch_size=8
 
 ## Result
+
+- RoBERTa-large
+
+batchsize=16
+
+res_v6
+
+|2-stage| epoch=1 |  |
+|------ | ------- | -------|
+|  | **EM** | **F1-score** |
+| **Dev** | - | - |
+| **Test** | - | - |
+
 
 - RoBERTa-large + Post-Pretraing(textbook corpus, spanmask)
 
