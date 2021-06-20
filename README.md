@@ -20,10 +20,10 @@ batchsize=16
 
 res_v6
 
-|2-stage| epoch=1 |  |
+|2-stage| epoch=7 |  |
 |------ | ------- | -------|
 |  | **EM** | **F1-score** |
-| **Dev** | - | - |
+| **Dev** | 81.47 | 84.66 |
 | **Test** | - | - |
 
 
