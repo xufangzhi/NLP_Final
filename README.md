@@ -26,6 +26,7 @@ res_v6
 | **Dev** | 81.47 | 84.66 |
 | **Test** | - | - |
 
+****
 
 - RoBERTa-large + Post-Pretraing(textbook corpus, spanmask)
 
@@ -37,6 +38,7 @@ batchsize=16
 | **Dev** | 81.07 | 84.34 |
 | **Test** | - | - |
 
+****
 
 - RoBERTa-large + NewsQA Finetune (e3)
 
@@ -44,12 +46,13 @@ batchsize=16
 
 res_without_postpt_e
 
-|3-stage| epoch=2 | newsqa_without_postpt_e3 |
+|3-stage| epoch=3 | newsqa_without_postpt_e3 |
 |------ | ------- | -------|
 |  | **EM** | **F1-score** |
-| **Dev** | 80.49 | 83.52 |
+| **Dev** | 81.25 | 84.33 |
 | **Test** | - | - |
 
+****
 
 - RoBERTa-large + Post-Pretraing(textbook corpus, spanmask) + NewsQA Finetune (e2)
 
