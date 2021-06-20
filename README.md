@@ -46,10 +46,10 @@ batchsize=16
 
 res_without_postpt_e
 
-|3-stage| epoch=3 | newsqa_without_postpt_e3 |
+|3-stage| epoch=5 | newsqa_without_postpt_e3 |
 |------ | ------- | -------|
 |  | **EM** | **F1-score** |
-| **Dev** | 81.25 | 84.33 |
+| **Dev** | 81.73 | 84.76 |
 | **Test** | - | - |
 
 ****
