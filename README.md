@@ -7,6 +7,7 @@ NLP Final Project：SQuAD
 - RoBERTa-large + Post-Pretraing(textbook corpus+SQuAD corpus, spanmask)
 - RoBERTa-large + NewsQA Finetune
 - RoBERTa-large + Post-Pretraing(textbook corpus, spanmask) + NewsQA Finetune
+- RoBERTa-large + Post-Pretraing(textbook corpus+SQuAD corpus, spanmask) + NewsQA Finetune
 
 
 ## Experiment Settings
