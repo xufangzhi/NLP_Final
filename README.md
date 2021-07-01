@@ -18,6 +18,6 @@ HowToTest.py is used for build results file
 
 ## Result
 
-![avatar](/Figures/EM Result Comparison for SQuAD1.1.jpg)
+![avatar](/Figures/EM.jpg)
 
 ![avatar](/Figures/F1 Result Comparison for SQuAD1.1.jpg)
