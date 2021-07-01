@@ -17,4 +17,9 @@ Python SQuAD_baseline_v1.1.py or SQuAD_baseline_v2.0.py
 HowToTest.py is used for build results file
 
 ## Result
-![avatar](/Figures)
+### SQuAD v1.1
+Exact Match
+![avatar](/Figures/EM Result Comparison for SQuAD1.1.jpg)
+
+F1-Score
+![avatar](/Figures/F1 Result Comparison for SQuAD1.1.jpg)
