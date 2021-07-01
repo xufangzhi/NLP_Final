@@ -17,3 +17,4 @@ Python SQuAD_baseline_v1.1.py or SQuAD_baseline_v2.0.py
 HowToTest.py is used for build results file
 
 ## Result
+![avatar](/Figures)
