@@ -20,4 +20,4 @@ HowToTest.py is used for build results file
 
 ![avatar](/Figures/EM.jpg)
 
-![avatar](/Figures/F1 Result Comparison for SQuAD1.1.jpg)
+![avatar](/Figures/F1_Result_Comparison_for_SQuAD1.1.jpg)
