@@ -19,7 +19,9 @@ HowToTest.py is used for build results file
 ## Result
 ### SQuAD v1.1
 Exact Match
+
 ![avatar](/Figures/EM Result Comparison for SQuAD1.1.jpg)
 
 F1-Score
+
 ![avatar](/Figures/F1 Result Comparison for SQuAD1.1.jpg)
